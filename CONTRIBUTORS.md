@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [om suneri](https://github.com/omsuneri)
+- Place: Chandigarh, India
+- Bio: Android, Web, AI Developer
+- GitHub: [omsuneri](https://github.com/omsuneri)
